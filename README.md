@@ -6,6 +6,7 @@ This project is only for studying and sharing, not for any business application.
 
 ## What is it
 This project conclude fast all self-check problems and review questions.
+All of program solutions are using SDK: Java 9.0.1
 
 ## What is important
 Good code and coding habit is the most important thing in this project.
